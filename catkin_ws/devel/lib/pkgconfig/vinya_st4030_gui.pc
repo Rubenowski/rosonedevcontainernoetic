@@ -1,0 +1,8 @@
+prefix=/rosonedevcontainernoetic/catkin_ws/devel
+
+Name: vinya_st4030_gui
+Description: Description of vinya_st4030_gui
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs
